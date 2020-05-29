@@ -8,5 +8,6 @@ artifacts:
   files:
     - index.html
     - favicon.ico
+    - Bogdan-Odulinski-Resume-2020.pdf
     - styles/main.css
     - images/*
